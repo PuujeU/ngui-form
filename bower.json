@@ -1,0 +1,19 @@
+{
+  "name": "ngui-form",
+  "homepage": "https://github.com/PuujeU/ngui-form",
+  "authors": [
+  ],
+  "description": "Angular form module",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.7",
+    "angular-messages": "^1.5.7",
+    "ckeditor": "^4.5.9"
+  }
+}
