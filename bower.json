@@ -1,10 +1,7 @@
 {
   "name": "ngui-form",
   "homepage": "https://github.com/PuujeU/ngui-form",
-  "authors": [
-  ],
   "description": "Angular form module",
-  "main": "",
   "license": "MIT",
   "ignore": [
     "node_modules",
